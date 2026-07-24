@@ -106,7 +106,7 @@ This application can be deployed on various platforms that support Streamlit app
 ![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Dashboard+Page+Screenshot)
 
 ### EDA Visualizations
-![EDA Screenshot](https://via.placeholder.com/800x450?text=EDA+Page+Screenshot)
+![EDA Screenshot](dashboard_preview/Exploratory_Data_Analysis.png)
 
 ## 📈 Power BI Dashboard (If Available)
 
