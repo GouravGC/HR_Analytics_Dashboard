@@ -100,10 +100,10 @@ This application can be deployed on various platforms that support Streamlit app
 *(Add screenshots of your Streamlit dashboard pages here)*
 
 ### Homepage
-![Homepage Screenshot](dashboard_preview/dashboard_preview.png)
+![Homepage Screenshot](dashboard_preview/homepage.png)
 
 ### Dashboard Overview
-![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Dashboard+Page+Screenshot)
+![Dashboard Screenshot](dashboard_preview/dashboard_preview.png)
 
 ### EDA Visualizations
 ![EDA Screenshot](dashboard_preview/Exploratory_Data_Analysis.png)
