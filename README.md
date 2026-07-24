@@ -97,8 +97,6 @@ This application can be deployed on various platforms that support Streamlit app
 
 ## 📸 Screenshots (Placeholders)
 
-*(Add screenshots of your Streamlit dashboard pages here)*
-
 ### Homepage
 ![Homepage Screenshot](dashboard_preview/homepage.png)
 
@@ -111,7 +109,5 @@ This application can be deployed on various platforms that support Streamlit app
 ## 📈 Power BI Dashboard (If Available)
 
 An executive Power BI dashboard complements this project, offering interactive data exploration and drill-down capabilities not fully replicated in Streamlit. 
-
-*(Link to Power BI Report or embed a screenshot if publicly accessible)*
 
 ![Power BI Dashboard Placeholder](powerbi/HR_Workforce_Dashboard.png)
