@@ -1,4 +1,4 @@
-%%writefile README.md
+
 # 🏢 HR Workforce Intelligence & Analytics Dashboard
 
 This project delivers an end-to-end HR Analytics solution, transforming raw employee data into actionable business intelligence through a Streamlit interactive dashboard. It leverages SQL for data querying, Python for cleaning and analysis, and Plotly for rich visualizations.
