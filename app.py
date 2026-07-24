@@ -64,7 +64,7 @@ st.markdown("""
 """)
 
 st.subheader("Dashboard Preview")
-st.image("dashboard_preview/dashboard_preview.PNG", caption="Dashboard Preview")
+st.image("dashboard_preview/dashboard_preview.png", caption="Dashboard Preview")
 
 st.subheader("Dataset Information")
 st.markdown("""

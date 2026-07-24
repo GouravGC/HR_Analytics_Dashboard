@@ -1,3 +1,4 @@
+app_url = https://hranalyticsdashboard-gc.streamlit.app/
 
 # 🏢 HR Workforce Intelligence & Analytics Dashboard
 
@@ -97,7 +98,7 @@ This application can be deployed on various platforms that support Streamlit app
 *(Add screenshots of your Streamlit dashboard pages here)*
 
 ### Homepage
-![Homepage Screenshot](https://via.placeholder.com/800x450?text=Homepage+Screenshot)
+![Homepage Screenshot](dashboard_preview/dashboard_preview.png)
 
 ### Dashboard Overview
 ![Dashboard Screenshot](https://via.placeholder.com/800x450?text=Dashboard+Page+Screenshot)
@@ -111,4 +112,4 @@ An executive Power BI dashboard complements this project, offering interactive d
 
 *(Link to Power BI Report or embed a screenshot if publicly accessible)*
 
-![Power BI Dashboard Placeholder](https://via.placeholder.com/800x450?text=Power+BI+Dashboard+Screenshot)
+![Power BI Dashboard Placeholder](powerbi/HR_Workforce_Dashboard.png)
