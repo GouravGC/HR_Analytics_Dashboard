@@ -1,0 +1,10 @@
+Department,BusinessTravel,Employees
+Human Resources,Non-Travel,6
+Human Resources,Travel_Frequently,11
+Human Resources,Travel_Rarely,46
+Research & Development,Non-Travel,97
+Research & Development,Travel_Frequently,183
+Research & Development,Travel_Rarely,683
+Sales,Non-Travel,47
+Sales,Travel_Frequently,84
+Sales,Travel_Rarely,316

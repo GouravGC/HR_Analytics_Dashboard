@@ -1,0 +1,9 @@
+SalarySlab,Attrition,Employees
+10k-15k,No,128
+10k-15k,Yes,20
+15k+,No,128
+15k+,Yes,5
+5k-10k,No,392
+5k-10k,Yes,49
+Upto 5k,No,588
+Upto 5k,Yes,163
